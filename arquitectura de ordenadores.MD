@@ -1,4 +1,4 @@
 #_ARQUITECTURA DE ORDENADORES
 [
-[Aqui estan los apuntes sobre la arquitectura de ordenadores
+[Aqui estan los apuntes sobre ordenadores
 README.MD]
