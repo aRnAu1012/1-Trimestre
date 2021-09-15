@@ -1,7 +1,6 @@
-# arnau
+# Arnau
 # titulo 
 ![https://github.com/d-prieto?tab=repositories]!
-![Mi_ARTICULO_FAVORITO_DE_LA_WIKI]
 [https://imagenes.elpais.com/resizer/XLLQ6_QfwYTVyw6q0sNg-JHUBWo=/1960x0/filters:focal(1962x666:1972x676)/cloudfront-eu-central-1.images.arcpublishing.com/prisa/DUHDEZAQBQQWWJTH7GOFFVZ2LA.jpg]
 bienvenides
 1 cuatrimestre 
