@@ -13,3 +13,22 @@ arduino tiene 1 procesador , recibe datos y solo dicen si o no, todos necessitan
 suben y bajan tension por 60 segundos cada vez, corriente alterna a corriente conterna,hardware-maquinari,software-programari,firware,
 
 ![imagen](https://user-images.githubusercontent.com/90753272/133423729-59aafb44-048b-4c1b-98fe-b41e51371dca.png)
+
+Placa base-La placa base es el circuito mas importante de todos los ordenadores,Esta formada por una placa de circuito 
+impreso rectangular, de dimensiones un poco mayores a un papel de tamaño A4. 
+
+Fuente de alimentacion-La fuente de alimentacion es el cable "que lo lleva todo", es decir, si no esta conectado el cable de alimentacion a la corriente y al ordenador , el ordenador no hara nada , estara apagado.
+
+En el interior del ordenador se encuentran los siguientes componentes:  
+Fuente de alimentación.  
+
+Placa base, a la que se acoplan el microprocesador, la memoria RAM, la tarjeta gráfica y la 
+tarjeta de sonido.  
+
+Los discos duros.  
+
+Las unidades ópticas, ya sean de tipo CD-ROM, DVD o Bluray. 
+
+![imagen](https://user-images.githubusercontent.com/90753272/133430248-480e13b2-c333-4911-b3de-7ee08c95d70c.png)
+
+
