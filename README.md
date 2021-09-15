@@ -1,7 +1,6 @@
 # arnau
 # titulo 
 ![d-prieto,]!
-
 ![Mi_ARTICULO_FAVORITO_DE_LA_WIKI]
 ![YOUTUBE]
 bienvenides
