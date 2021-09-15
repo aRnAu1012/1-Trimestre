@@ -2,7 +2,7 @@
 # titulo 
 ![d-prieto,]!
 ![Mi_ARTICULO_FAVORITO_DE_LA_WIKI]
-![YOUTUBE]
+[https://imgresizer.eurosport.com/unsafe/1200x0/filters:format(png)/origin-imgresizer.eurosport.com/2021/08/24/3206215-65679568-2560-1440.png]
 bienvenides
 1 cuatrimestre 
 Me llamo Arnau.
