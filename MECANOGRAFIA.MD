@@ -2,7 +2,6 @@
 
 ### MECANOGRAFIA.MD
 
-[https://github.com/d-prieto/Inkscape-fresado-y-soldadura]
 
 [https://github.com/d-prieto]
 
