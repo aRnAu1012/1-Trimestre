@@ -2,7 +2,7 @@
 # titulo 
 ![d-prieto,]!
 ![Mi_ARTICULO_FAVORITO_DE_LA_WIKI]
-[https://imgresizer.eurosport.com/unsafe/1200x0/filters:format(png)/origin-imgresizer.eurosport.com/2021/08/24/3206215-65679568-2560-1440.png]
+[https://imagenes.elpais.com/resizer/XLLQ6_QfwYTVyw6q0sNg-JHUBWo=/1960x0/filters:focal(1962x666:1972x676)/cloudfront-eu-central-1.images.arcpublishing.com/prisa/DUHDEZAQBQQWWJTH7GOFFVZ2LA.jpg]
 bienvenides
 1 cuatrimestre 
 Me llamo Arnau.
