@@ -29,6 +29,7 @@ Los discos duros.
 
 Las unidades ópticas, ya sean de tipo CD-ROM, DVD o Bluray. 
 
+Informacion digital:
 ![imagen](https://user-images.githubusercontent.com/90753272/133430248-480e13b2-c333-4911-b3de-7ee08c95d70c.png)
 
 
