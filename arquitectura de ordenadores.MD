@@ -33,3 +33,58 @@ Informacion digital:
 ![imagen](https://user-images.githubusercontent.com/90753272/133430248-480e13b2-c333-4911-b3de-7ee08c95d70c.png)
 
 
+BINARIO=Se puede escribir con una cifra 10 numeros,si quieres se puede escribir 100 solo es repetir 10 veces los 10 numeros-(0,1,2,3,4,5,6,7,8,9)
+
+1230=-1*1000=1*10(3)
+     -2*100=2*10(2)
+     -3*10=3*10(1)
+     Potencias:
+     3+3=6
+     3*2=6
+     3*3=9
+     3(2)=9
+     3(3)=3*3*3
+     7(4)=7*7*7*7
+     7(1)=7
+     
+     El binario es una forma de contar en vez de tener 10 cifras tenemos 2 cifras,
+     
+    El sistema binario funciona con potencias de 2:2,4,8,16,32,64.
+    
+    Numeros del 1 al 10 en binario:
+    DEC Bina:  Octal: 
+     0= 0 
+     1= 1      0
+     2= 10     1
+     3= 11     2
+     4= 100    3
+     5= 101    4
+     6= 110    5
+     7= 111    6 
+     8= 1000   7
+     9= 1001   10
+    10= 1010   11
+     
+     Hexadecimal:
+     0
+     1 
+     2
+     3
+     4
+     5
+     6
+     7
+     8
+     9
+     a
+     6
+     c
+     d
+     e
+     f
+  
+   https://es.calcuworld.com/calculadoras-matematicas/calculadora-binaria/
+
+ Numeros decimales:como es en binario?
+ 
+ 1,000,000=11110100001001000000
