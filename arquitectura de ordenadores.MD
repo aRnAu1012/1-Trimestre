@@ -85,6 +85,16 @@ Ventilador CPU:Cooler Master Hyper 212 RGB Black Edition
 Disco Duro:HP Enterprise 3.5" 4TB 6G SATA 3
 Torre:Tempest Spectra RGB USB 3.0 con Ventana Blanco
 Fuente de Alimentacion:Tempest Gaming GPSU Fuente de Alimentación 650W
+Targeta grafica:Gigabyte GeForce GT 710 2GB DDR3
+Targeta de sonido:Creative Sound Blaster Audigy RX
+Lector de targeta: Unotec Mini Lector USB de Tarjetas MicroSD
+Gravadora de DVD:Hitachi-LG GH24NSD5 Grabadora DVD-RW Interna Negra
+Monitor:LG 24MP59G-P 24" LED Full HD IPS
+Teclado:Tempest Apocalypse Combo Gaming Teclado + Ratón + Auriculares + Alfombrilla
+Raton:Tempest MS-300 RGB Soldier Ratón Gaming 4000DPI
+Altavoces:Tempest M10 RGB Hero 2.0 Gaming Speakers
+Altavoces red wifi:TP-LINK TL-WN881ND 300Mbs 11n Wireless PCI Express Ver 2.0
+Sistema operativo:Microsoft Windows 10 Home Advanced 32/64Bits.
 
 
 ## Clase de Binario
