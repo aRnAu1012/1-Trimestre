@@ -5,7 +5,7 @@ README.MD]
 
 [enlace](https://github.com/d-prieto?tab=repositories)
 
-[https://grandecovian.es/FGC/files/D.%20Tecnolog%C3%ADa/TIC%20I/Arquitectura/Arquitectura%20de%20ordenadores.pdf]
+[enlace][https://grandecovian.es/FGC/files/D.%20Tecnolog%C3%ADa/TIC%20I/Arquitectura/Arquitectura%20de%20ordenadores.pdf]
 
 ## Informacion Sistema
 Pc-funciones de las piezas-
