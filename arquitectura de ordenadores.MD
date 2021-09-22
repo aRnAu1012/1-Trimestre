@@ -34,8 +34,7 @@ Las unidades ópticas, ya sean de tipo CD-ROM, DVD o Bluray.
 
 Un ordenador es una maquina electronica que srive para procesar informacion digital.
 informacion digital es aquella que puede expresarse en terminos 0 y 1 en sistema binario.
-![imagen](![imagen](https://user-images.githubusercontent.com/90753272/134322616-bf5d9696-b033-4869-8d14-71a3ce72dd55.png)
-)
+![imagen](![imagen](https://user-images.githubusercontent.com/90753272/134322616-bf5d9696-b033-4869-8d14-71a3ce72dd55.png))
 
 Informacion digital:
 
