@@ -32,6 +32,7 @@ Informacion digital:
 
 ![imagen](https://user-images.githubusercontent.com/90753272/133430248-480e13b2-c333-4911-b3de-7ee08c95d70c.png)
 
+##Clase de Binario
 
 BINARIO=Se puede escribir con una cifra 10 numeros,si quieres se puede escribir 100 solo es repetir 10 veces los 10 numeros-(0,1,2,3,4,5,6,7,8,9)
 
@@ -83,8 +84,22 @@ BINARIO=Se puede escribir con una cifra 10 numeros,si quieres se puede escribir 
      e
      f
   
-   https://es.calcuworld.com/calculadoras-matematicas/calculadora-binaria/
+ 
+ https://es.calcuworld.com/calculadoras-matematicas/calculadora-binaria/
 
+###Ejercicios de conversion.
+ 
  Numeros decimales:como es en binario?
  
  1,000,000=11110100001001000000
+ 
+¿Cuanto es en decimal?
+11100110011001=14745
+
+
+Titulos y separadores:
+(# Titulo) - Mas importante
+
+(## Seccion)
+(###subseccion)
+(### ejercicios de conversion)
