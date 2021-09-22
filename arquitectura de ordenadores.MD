@@ -3,14 +3,16 @@
 [Aqui estan los apuntes sobre ordenadores
 README.MD]
 
+
 [enlace](https://github.com/d-prieto?tab=repositories)
 
 [enlace](https://grandecovian.es/FGC/files/D.%20Tecnolog%C3%ADa/TIC%20I/Arquitectura/Arquitectura%20de%20ordenadores.pdf)
 
-## Informacion Sistema
+## Informacion Sistema.
 Pc-funciones de las piezas-
 Placa base-arduino tiene 1 procesador , recibe datos y solo dicen si o no, todos necessitan una salida o entrada de datos,altavoces,micro ,impresora son salida de datos,para recibir entradas o salidas se necessitan conectores,usb,salida de video,salida de rem,para guardar informacion necessitan disco duros,sistema de memoria se tiene que gardar en objeto fisico (disco duro),nube ram (memoria bolati),las cosas que se buscan se guardan en un cache y cuando reinicias todo se pierde, salida de audio, necessita grabar de una forma especifica,todo se puede posgrabar en otra plaquita de sonido, pc(compbatibles), fuente de alimentacion,con mucha electricidad,
-suben y bajan tension por 60 segundos cada vez, corriente alterna a corriente conterna,hardware-maquinari,software-programari,firware,
+suben y bajan tension por 60 segundos cada vez, corriente alterna a corriente conterna,hardware-maquinari,software-programari,firware.
+
 
 ![imagen](https://user-images.githubusercontent.com/90753272/133423729-59aafb44-048b-4c1b-98fe-b41e51371dca.png)
 
@@ -22,13 +24,18 @@ Fuente de alimentacion-La fuente de alimentacion es el cable "que lo lleva todo"
 En el interior del ordenador se encuentran los siguientes componentes:  
 Fuente de alimentación.  
 
-## Informacion general PC:
+## Informacion general Ordenadores:
 
 Placa base, a la que se acoplan el microprocesador, la memoria RAM, la tarjeta gráfica y la 
 tarjeta de sonido.  
 
 Los discos duros.  
 Las unidades ópticas, ya sean de tipo CD-ROM, DVD o Bluray. 
+
+Un ordenador es una maquina electronica que srive para procesar informacion digital.
+informacion digital es aquella que puede expresarse en terminos 0 y 1 en sistema binario.
+![imagen](![imagen](https://user-images.githubusercontent.com/90753272/134322616-bf5d9696-b033-4869-8d14-71a3ce72dd55.png)
+)
 
 Informacion digital:
 
