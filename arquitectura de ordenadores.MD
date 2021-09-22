@@ -124,7 +124,7 @@ BINARIO=Se puede escribir con una cifra 10 numeros,si quieres se puede escribir 
   
   UNICODE--- hasta 100000 caracteres.
   
-  [https://es.wikipedia.org/wiki/Unicode]
+ [https://es.wikipedia.org/wiki/Unicode]
   
   
   
