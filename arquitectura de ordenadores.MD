@@ -34,9 +34,23 @@ Las unidades ópticas, ya sean de tipo CD-ROM, DVD o Bluray.
 
 Un ordenador es una maquina electronica que srive para procesar informacion digital.
 informacion digital es aquella que puede expresarse en terminos 0 y 1 en sistema binario.
-![imagen](![imagen](https://user-images.githubusercontent.com/90753272/134322616-bf5d9696-b033-4869-8d14-71a3ce72dd55.png))
+![imagen](https://user-images.githubusercontent.com/90753272/134322616-bf5d9696-b033-4869-8d14-71a3ce72dd55.png)
 
-Informacion digital:
+Fuente de alimentacion:
+El voltaje de una corriente es de 220V (CA)-50h(3)
+
+Los cargadores portatiles no son compatibles.
+
+Conponentes portatiles;
+fuente de alimentacion de un portatil (interno) , transformador extremo(externo), bateria(interno);
+
+![imagen](https://user-images.githubusercontent.com/90753272/134325929-566a3f60-eac5-402b-9673-4d5dc4c60adc.png)
+
+### MICROPROCESADOR 
+Circuito integrado - circuito ya hechos en fabrica, los microprocesadores suelen ser un tipo para el circuito,su tamaño es nanometrico,  si un interructor passa corriente entre si, se enciende si no pasa por la corriente entonces no se enciende, la RAM--> si le preguntas algo hoy , pero le preguntas para que te responda dentro de un 1 alomejor no te dice nada ya que tienen una memoria a corto plazo,
+![imagen](https://user-images.githubusercontent.com/90753272/134327141-b2b117ee-b93a-4898-beed-4322f1805b6a.png)
+
+
 
 ![imagen](https://user-images.githubusercontent.com/90753272/133430248-480e13b2-c333-4911-b3de-7ee08c95d70c.png)
 
