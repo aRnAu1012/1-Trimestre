@@ -115,6 +115,12 @@ Sistema operativo:Microsoft Windows 10 Home Advanced 32/64Bits.
 
 Total = 1035.000$ 
 
+## Teclado
+Son dispositivos de entrada ,activados por pulsacion de teclas,incorporan un circuito integrado que se comunica con el pc.
+Su conexion es USB y antiguamente PS/2.
+Tipos:
+mecanicos
+membrana
 
 ## Clase de Binario
 
