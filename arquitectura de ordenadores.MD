@@ -36,17 +36,28 @@ Informacion digital:
 
 BINARIO=Se puede escribir con una cifra 10 numeros,si quieres se puede escribir 100 solo es repetir 10 veces los 10 numeros-(0,1,2,3,4,5,6,7,8,9)
 
-1230=-1*1000=1*10(3)
+1230=-
+     1*1000=1*10(3)
+     
      -2*100=2*10(2)
+     
      -3*10=3*10(1)
-     Potencias:
+    
+    Potencias:
+     
      3+3=6
+     
      3*2=6
-     3*3=9
-     3(2)=9
-     3(3)=3*3*3
-     7(4)=7*7*7*7
-     7(1)=7
+    
+    3*3=9
+    
+    3(2)=9
+     
+    3(3)=3*3*3
+    
+    7(4)=7*7*7*7
+    
+    7(1)=7
      
      El binario es una forma de contar en vez de tener 10 cifras tenemos 2 cifras,
      
