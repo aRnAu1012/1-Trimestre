@@ -5,7 +5,7 @@ README.MD]
 
 [enlace](https://github.com/d-prieto?tab=repositories)
 
-[enlace][https://grandecovian.es/FGC/files/D.%20Tecnolog%C3%ADa/TIC%20I/Arquitectura/Arquitectura%20de%20ordenadores.pdf]
+[enlace](https://grandecovian.es/FGC/files/D.%20Tecnolog%C3%ADa/TIC%20I/Arquitectura/Arquitectura%20de%20ordenadores.pdf)
 
 ## Informacion Sistema
 Pc-funciones de las piezas-
@@ -124,12 +124,12 @@ BINARIO=Se puede escribir con una cifra 10 numeros,si quieres se puede escribir 
   
   UNICODE--- hasta 100000 caracteres.
   
- [https://es.wikipedia.org/wiki/Unicode]
+ [enlace](https://es.wikipedia.org/wiki/Unicode)
   
   
   
  
- [https://es.calcuworld.com/calculadoras-matematicas/calculadora-binaria/]
+ [enlace](https://es.calcuworld.com/calculadoras-matematicas/calculadora-binaria/)
 
 ### Ejercicios de conversion.
  
