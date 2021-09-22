@@ -113,6 +113,8 @@ Altavoces red wifi:TP-LINK TL-WN881ND 300Mbs 11n Wireless PCI Express Ver 2.0
 
 Sistema operativo:Microsoft Windows 10 Home Advanced 32/64Bits.
 
+Total = 1035.000$ 
+
 
 ## Clase de Binario
 
