@@ -97,4 +97,3 @@ BINARIO=Se puede escribir con una cifra 10 numeros,si quieres se puede escribir 
 11100110011001=14745
 
 
-
