@@ -119,8 +119,8 @@ Total = 1043.16$
 Son dispositivos de entrada ,activados por pulsacion de teclas,incorporan un circuito integrado que se comunica con el pc.
 Su conexion es USB y antiguamente PS/2.
 Tipos:
-mecanicos
-membrana
+mecanicos;
+membrana.
 
 ## Clase de Binario
 
