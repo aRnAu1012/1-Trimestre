@@ -75,6 +75,17 @@ con  los  que  está  trabajando.  Todo  lo  que  hay  en  ella  almacenado  se 
 
 La memoria RAM suele funcionar mejor a dos placas iguales.
 
+## Creacion de un ordenador 
+[enlace](https://www.pccomponentes.com/configurador/?a=865929482&gclsrc=aw.ds&gclid=Cj0KCQjwqKuKBhCxARIsACf4XuFVvJR9fKfrh0KJ-mulWdHa5EfkLn36TvtZhjIe2oD12II17GzRFCUaAiU9EALw_wcB)
+## componentes ordenador
+Procesador: Intel Socket 1151 Gen 8/9
+Placa base:Gygabyte B365-Ds3h
+Memoria RAM:Team Group Delta White RGB DDR4 3200 PC4-25600 16GB 2x8GB CL16Ç
+Ventilador CPU:Cooler Master Hyper 212 RGB Black Edition
+Disco Duro:HP Enterprise 3.5" 4TB 6G SATA 3
+Torre:Tempest Spectra RGB USB 3.0 con Ventana Blanco
+Fuente de Alimentacion:Tempest Gaming GPSU Fuente de Alimentación 650W
+
 
 ## Clase de Binario
 
