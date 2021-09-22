@@ -99,8 +99,37 @@ BINARIO=Se puede escribir con una cifra 10 numeros,si quieres se puede escribir 
      e
      f
   
+  0b se utiliza para decirlo a un ordenador que un numero esta en binario.
+  
+  Para HEXADECIMAL:
+  Se escribe 0x
+  decimal:
+  1000
+  
+  binario:
+  061000=8
+  
+  Hexadecimal:
+  0x1000_216000
+  
+  Conversor ASCII
+  
+  ### Convertir Numeros en Letras
+  
+  Existen codigos que convierten numeros en letras.
+  
+  ASCII(ANTIGUO)tiene 255 valores y caracteres latinos (no tiene Ñ)
+  A --- 011000
+  a --- 001010
+  
+  UNICODE--- hasta 100000 caracteres.
+  
+  [https://es.wikipedia.org/wiki/Unicode]
+  
+  
+  
  
- https://es.calcuworld.com/calculadoras-matematicas/calculadora-binaria/
+ [https://es.calcuworld.com/calculadoras-matematicas/calculadora-binaria/]
 
 ### Ejercicios de conversion.
  
