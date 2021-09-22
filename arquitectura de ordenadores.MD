@@ -78,22 +78,39 @@ La memoria RAM suele funcionar mejor a dos placas iguales.
 ## Creacion de un ordenador 
 [enlace](https://www.pccomponentes.com/configurador/?a=865929482&gclsrc=aw.ds&gclid=Cj0KCQjwqKuKBhCxARIsACf4XuFVvJR9fKfrh0KJ-mulWdHa5EfkLn36TvtZhjIe2oD12II17GzRFCUaAiU9EALw_wcB)
 ## componentes ordenador
+
 Procesador: Intel Socket 1151 Gen 8/9
+
 Placa base:Gygabyte B365-Ds3h
+
 Memoria RAM:Team Group Delta White RGB DDR4 3200 PC4-25600 16GB 2x8GB CL16Ç
+
 Ventilador CPU:Cooler Master Hyper 212 RGB Black Edition
+
 Disco Duro:HP Enterprise 3.5" 4TB 6G SATA 3
+
 Torre:Tempest Spectra RGB USB 3.0 con Ventana Blanco
+
 Fuente de Alimentacion:Tempest Gaming GPSU Fuente de Alimentación 650W
+
 Targeta grafica:Gigabyte GeForce GT 710 2GB DDR3
+
 Targeta de sonido:Creative Sound Blaster Audigy RX
+
 Lector de targeta: Unotec Mini Lector USB de Tarjetas MicroSD
+
 Gravadora de DVD:Hitachi-LG GH24NSD5 Grabadora DVD-RW Interna Negra
+
 Monitor:LG 24MP59G-P 24" LED Full HD IPS
+
 Teclado:Tempest Apocalypse Combo Gaming Teclado + Ratón + Auriculares + Alfombrilla
+
 Raton:Tempest MS-300 RGB Soldier Ratón Gaming 4000DPI
+
 Altavoces:Tempest M10 RGB Hero 2.0 Gaming Speakers
+
 Altavoces red wifi:TP-LINK TL-WN881ND 300Mbs 11n Wireless PCI Express Ver 2.0
+
 Sistema operativo:Microsoft Windows 10 Home Advanced 32/64Bits.
 
 
