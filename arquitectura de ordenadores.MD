@@ -22,6 +22,8 @@ Fuente de alimentacion-La fuente de alimentacion es el cable "que lo lleva todo"
 En el interior del ordenador se encuentran los siguientes componentes:  
 Fuente de alimentación.  
 
+## Informacion general PC:
+
 Placa base, a la que se acoplan el microprocesador, la memoria RAM, la tarjeta gráfica y la 
 tarjeta de sonido.  
 
