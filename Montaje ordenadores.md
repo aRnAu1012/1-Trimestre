@@ -1,6 +1,6 @@
 Personas en el equipo :Hemos estado trabajando Andre,Isma,JM,JO
 
-El fotografo del equipo , el que hacia fotografrias cada pieza que desmontavamos era Ismael.
+El fotografo del equipo , el que hacia fotos a cada pieza que desmontavamos era Ismael.
 
 Proceso del desmontaje : En mi equipo el momento del desmontaje hemos intentado almenos 3 personas desmontar tornillos cuantos mas saquemos mas rapido y bien lo haciamos,la verdad es que desmontar bien las piezas era mas facil de lo que pensamos.
 
