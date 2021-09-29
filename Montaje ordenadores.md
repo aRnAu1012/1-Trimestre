@@ -26,8 +26,13 @@ tarjeta de red.
 La fuente de alimentacion,
 El disco Duro,
 La memoria Ram 
-La tarjeta wifi,
+La tarjeta wifi.
 La pantalla.
 
 -De que año es?
+he estado buscando de que año son los componentes de el ordenador .
+La placa base:fue creada en la decada de los 80 
+El disco Duro:fue creado en 1956 
+La memoria Ram:fue creado en 1969.
+La tarjeta wifi
 
