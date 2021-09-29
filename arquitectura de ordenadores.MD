@@ -259,7 +259,8 @@ Marca de la tarjeta gráfica: NVIDIA.
  
  he sacado esta informacion de [enlace](https://www.opirata.com/p/tarjeta-grafica-gigabyte-geforce-gt-710-2gb-gddr5) y de [enlace](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&cad=rja&uact=8&ved=2ahUKEwjHkPLk3KPzAhUGvRQKHUmODSsQFnoECAgQAw&url=https%3A%2F%2Fwww.opirata.com%2Fp%2Ftarjeta-grafica-gigabyte-geforce-gt-710-2gb-gddr5&usg=AOvVaw2CZs1d_U1w5V-tiBFDBz6H)
 
-## Memoria tipo RAM --->Es una memoria a corto plazo.
+## Memoria tipo RAM 
+Es una memoria a corto plazo.
 
 Sistema de bus para sistema grafica---> Es una serie de cables que van juntos y normalmente transmiten informacion,siempre son fisicos.
 
