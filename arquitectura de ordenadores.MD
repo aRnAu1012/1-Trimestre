@@ -264,6 +264,17 @@ Es una memoria a corto plazo.
 
 Sistema de bus para sistema grafica---> Es una serie de cables que van juntos y normalmente transmiten informacion,siempre son fisicos.
 
+### Disco duro:
+
+Que es un disco duro? 
+
+Es donde vamos a guardar todo tipo de informacion,una vez esos discos duros de habran ya no se puede recuperar esa informacion ya que esos discos de rayan.
+
+
+
+
+ 
+
 
 
 
