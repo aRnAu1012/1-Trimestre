@@ -268,7 +268,17 @@ Sistema de bus para sistema grafica---> Es una serie de cables que van juntos y 
 
 Que es un disco duro? 
 
-Es donde vamos a guardar todo tipo de informacion,una vez esos discos duros de habran ya no se puede recuperar esa informacion ya que esos discos de rayan.
+Es donde vamos a guardar todo tipo de informacion,una vez esos discos duros de habran ya no se puede recuperar esa informacion ya que esos discos de rayan, si se caen un disco duro mientras esta leyendo es muy posible que la aguja toco dondo no tiene que tocar y se rompa. 
+
+Los sectores de los discors duros suelen ser de 512 bytes, en bits son 4096 bits.
+#### Formateo y Sectores.
+ Tengo un disco duro magnetico de 100 Gbytes.
+ 
+ ¿Cuantos sectores tiene si cada sector es de 512 bytes?
+ 
+ 100GB = 102 400 MG =
+ 
+100GB*1024 MB,GB*1024 HB,MB*1024 BYTES,kg
 
 
 
