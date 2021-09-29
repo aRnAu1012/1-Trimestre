@@ -280,13 +280,3 @@ Los sectores de los discors duros suelen ser de 512 bytes, en bits son 4096 bits
  
 Aproximadamente son 209 Millones de sectores.
 
-
-
-
- 
-
-
-
-
-
-
