@@ -228,6 +228,10 @@ BINARIO=Se puede escribir con una cifra 10 numeros,si quieres se puede escribir 
 ¿Cuanto es en decimal?
 11100110011001=14745
 
+## Targeta grafica:
+La funcion de la targeta grafica es procesar la informacion procesada del ordenador en una señal que pueda entender el monitor, para mostrarla en forma de imagen 
+en  la  pantalla.
+
 
 
 
