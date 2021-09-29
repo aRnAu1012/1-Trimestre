@@ -1,4 +1,7 @@
 -¿Como es el ordenador ?
-Que tengo que desmontar?
-tiene alguna pieza reutilizable?
-de que año es?
+
+-Que tengo que desmontar?
+
+-Tiene alguna pieza reutilizable?
+
+-De que año es?
