@@ -281,3 +281,20 @@ Los sectores de los discors duros suelen ser de 512 bytes, en bits son 4096 bits
 Aproximadamente son 209 Millones de sectores.
 
  1 MB SON 1.24 GB
+ 
+ convenciones:
+ 
+ como yo relleno mi informacion, para cada uno de esas formas de archiva como formato archivo:
+ 
+ FAT
+ FAT 32:MEMORIAS usb       -----WINDOWS
+ NTVFS
+ 
+ 
+ EXT2
+ 
+ EXT3    -----LINUX
+ 
+ EXT4
+ 
+ 
