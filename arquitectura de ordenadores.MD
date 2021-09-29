@@ -276,9 +276,9 @@ Los sectores de los discors duros suelen ser de 512 bytes, en bits son 4096 bits
  
  ¿Cuantos sectores tiene si cada sector es de 512 bytes?
  
- 100GB = 102 400 MG =
+ 100GB = 102.400 MG = 104.857.600 KG = 107.374.182.400bytes = 209.715.200 sectores.
  
-100GB*1024 MB,GB*1024 HB,MB*1024 BYTES,kg
+Aproximadamente son 209 Millones de sectores.
 
 
 
