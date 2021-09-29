@@ -249,10 +249,11 @@ CPU es la abreviación de Unidad Central de Procesamiento, un componente básico
  
  -Salidas:tiene 2 salidas , un adaptador perfil bajo,fuente de alimentacion.
  
- -Tipo de interfaz:
- Interfaz de tarjeta de gráficos: PCI-E.
+ -Tipos de interfaz:
  
-Coprocesador de gráficos: NVIDIA GeForce GT.
+Interfaz de tarjeta de gráficos: PCI-E.
+ 
+Coprocesador de gráficos: NVIDIA GeForce GT
 
 Marca de la tarjeta gráfica: NVIDIA.
  
