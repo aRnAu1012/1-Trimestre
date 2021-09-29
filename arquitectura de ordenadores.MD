@@ -228,11 +228,42 @@ BINARIO=Se puede escribir con una cifra 10 numeros,si quieres se puede escribir 
 ¿Cuanto es en decimal?
 11100110011001=14745
 
-## Targeta grafica:
-La funcion de la targeta grafica es procesar la informacion procesada del ordenador en una señal que pueda entender el monitor, para mostrarla en forma de imagen 
-en  la  pantalla.
+## Targetas grafica:
+ Que es?La funcion de la targeta grafica es procesar la informacion procesada del ordenador en una señal que pueda entender el monitor, para mostrarla en forma de imagen en  la  pantalla.
+ 
+### Que es una Cpu? 
 
-### Memoria tipo RAM --->Es una memoria a corto plazo.
+CPU es la abreviación de Unidad Central de Procesamiento, un componente básico de todo dispositivo que procesa datos y realiza cálculos matemáticos-informáticos.
+
+ ### Que caracteristiques tiene la targeta grafica Gigabyte GeForce GT 710 2GB DDR3?
+ 
+ -Procesador:GeForce GT 710
+ 
+ -Memoria:2GB GDDR5
+ 
+ -tipo:- PCI Express 2.0
+ 
+ -cantidad:Memory Bus: 64 bit.
+ 
+ -velocidad:1800 MHz
+ 
+ -Salidas:tiene 2 salidas , un adaptador perfil bajo,fuente de alimentacion.
+ 
+ -Tipo de interfaz:
+ Interfaz de tarjeta de gráficos: PCI-E.
+ 
+Coprocesador de gráficos: NVIDIA GeForce GT.
+
+Marca de la tarjeta gráfica: NVIDIA.
+ 
+ he sacado esta informacion de [enlace](https://www.opirata.com/p/tarjeta-grafica-gigabyte-geforce-gt-710-2gb-gddr5) y de [enlace](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&cad=rja&uact=8&ved=2ahUKEwjHkPLk3KPzAhUGvRQKHUmODSsQFnoECAgQAw&url=https%3A%2F%2Fwww.opirata.com%2Fp%2Ftarjeta-grafica-gigabyte-geforce-gt-710-2gb-gddr5&usg=AOvVaw2CZs1d_U1w5V-tiBFDBz6H)
+
+## Memoria tipo RAM --->Es una memoria a corto plazo.
+
+Sistema de bus para sistema grafica---> Es una serie de cables que van juntos y normalmente transmiten informacion,siempre son fisicos.
+
+
+
 
 
 
