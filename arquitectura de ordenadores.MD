@@ -298,3 +298,8 @@ Aproximadamente son 209 Millones de sectores.
  EXT4
  
  
+DOS TIPOS DE FORMATEO:
+
+Formateo ESTANDAR
+
+Formateo DE BAJO NIVEL.
