@@ -5,3 +5,4 @@
 -Tiene alguna pieza reutilizable?
 
 -De que año es?
+-Fotos DEX.
