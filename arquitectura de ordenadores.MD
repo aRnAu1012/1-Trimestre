@@ -279,4 +279,4 @@ Los sectores de los discors duros suelen ser de 512 bytes, en bits son 4096 bits
  100GB = 102.400 MG = 104.857.600 KG = 107.374.182.400bytes = 209.715.200 sectores.
  
 Aproximadamente son 209 Millones de sectores.
-
+ 1 MB SON 1.24 GB
