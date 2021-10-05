@@ -36,7 +36,7 @@ El disco Duro:
 La memoria Ram:fue creado en 1969.
 
 Foto 1 : 
-
+https://github.com/aRnAu1012/arnau/blob/main/IMG%201.jpg
 
 
 
