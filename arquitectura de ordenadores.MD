@@ -309,6 +309,70 @@ Formateo DE BAJO NIVEL.
   LAN :Local Area Natural.
   Protocolo ----> TCP/IP  ---->IP(4bits)(es decir son 4 numeros entre el 0 y el 255)
   
+  Para conectar mas de dos ordenadores con el cable LAN se necesita un aparato que se llama (-switch)
+  
+  El wifi sigue funcionando por tcp/ip que la wifi tiene un servidor o punto de acceso wifi----> No tiene por que tener internet.
+  
+  DHCP----> Asigna de forma automatica las ips de los ordenadores conectados
+   IP ---> 255.255.0193
+   
+  ejemplo---> 255.255.0.203/fotos bonitas /IMG 8066.JPG:80 
+  Ese ISP es el que te da internet con otros:
+                                       .service
+                                       .Providez
+                                       
+  DNS: Tiene un listado por un lado google.com por otro lado mas DNS 
+  
+  Si falla facebook es por culpa de el DNS 
+  
+Ataque DDOS :
+Pedir a la vez DEMASIADAS COSAS A UN MISMO SERVIDOR , tienen que estar distribuido por el espacio.
+
+STREAM: Arroyo ---> Corriente de agua(Datos) 
+         TCP/IP
+         UTP 
+  Puertos : ---->Puertas    80--->http o 443---> https    HIPERTEXO
+            ----> Abiertas o cerradas 
+  
+  
+  
+  
+   
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+ 
+                                             
+
+ 
+ 
+  
   
   
  
