@@ -1,4 +1,4 @@
-en el equipo :Hemos estado trabajando Andre,Isma,JM,JO
+en el equipo :Hemos estado trabajando Andre,Isma,JM,
 
 El fotografo del equipo , el que hacia fotos a cada pieza que desmontavamos era Ismael.
 
