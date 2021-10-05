@@ -1,4 +1,4 @@
-Personas en el equipo :Hemos estado trabajando Andre,Isma,JM,JO
+https://raw.githubusercontent.com/aRnAu1012/arnau/main/IMG%201.jpgPersonas en el equipo :Hemos estado trabajando Andre,Isma,JM,JO
 
 El fotografo del equipo , el que hacia fotos a cada pieza que desmontavamos era Ismael.
 
