@@ -305,6 +305,29 @@ Formateo ESTANDAR
 Formateo DE BAJO NIVEL.
 
 ## Internet y redes:
-ejemplo:
-envio whatsapp
+ ### Redes locales:LAN 
+  LAN :Local Area Natural.
+  Protocolo ----> TCP/IP  ---->IP(4bits)(es decir son 4 numeros entre el 0 y el 255)
+  
+  
+  
+ 
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
