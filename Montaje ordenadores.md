@@ -54,18 +54,6 @@ En estos momentos estamos deciciendo como empezar bien el desmontaje de ordenado
  
  
  
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
 Foto 2 :
 ![](https://raw.githubusercontent.com/aRnAu1012/arnau/main/IMG_2.jpg)
 
