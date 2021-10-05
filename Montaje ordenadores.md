@@ -38,3 +38,5 @@ La memoria Ram:fue creado en 1969.
 Foto 1 : 
 
 
+
+
