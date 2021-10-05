@@ -55,6 +55,7 @@ En estos momentos estamos deciciendo como empezar bien el desmontaje de ordenado
  
  
 Foto 2 :
+En este mismo momento hemos decidido que hacer y nos hemos puesto a desmontar el ordenador.
 ![](https://raw.githubusercontent.com/aRnAu1012/arnau/main/IMG_2.jpg)
 
 
