@@ -41,7 +41,7 @@ Foto 1 :
  
 Foto 2 :
 
-![](https://github.com/aRnAu1012/arnau/blob/main/IMG_2.jpg)
+![](https://raw.githubusercontent.com/aRnAu1012/arnau/main/IMG_2.jpg)
 
 
 
