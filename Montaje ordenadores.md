@@ -7,19 +7,20 @@ Proceso del desmontaje : En mi equipo el momento del desmontaje hemos intentado 
 Proceso de montaje: El proceso del montaje era un poco complicado ya que no estabamos seguros a la  hora de conectar , pero hablando con el equipo lo supimos hacer bien.
 
 Que hemos aprendido : Al menos en mi caso , lo que mas he aprendido es que dentro de una torre de ordenador es bastante complicado a la hora de sacar piezas, pero gracias a este desmontaje de ordenadores y montaje de ordenadores he podido saber el significado de algunas piezas importantes de los ordenadores , como por ejemplo, que si la RAM no esta conectado desde el principo no se podra encender la torre,aunque todas las piezas esten bien.
-
+ 
 
 -¿Como es el ordenador ?
 El ordenador es a la vista de afuera es bastante pequeño pero cuando habres una de las tapas se be otro mundo con la memoria RAM , DISCO DURO , Placa base,processador ....
 
 -Que tengo que desmontar?
-Lo que tengo que desmontar es todo las placas possibles,Placa base:
-Processador.
-Memoria de RAM.
-Disco duro.
-Tarjeta grafica.
-Fuente de alimentacion .
-tarjeta de red.
+Lo que tengo que desmontar es todo las placas possibles,
+Placa base;
+Processador;
+Memoria de RAM;
+Disco duro;
+Tarjeta grafica;
+Fuente de alimentacion;
+tarjeta de red;
 
  
 -Tiene alguna pieza reutilizable?
@@ -30,9 +31,8 @@ La tarjeta wifi.
 La pantalla.
 
 -De que año es?
-he estado buscando de que año son los componentes de el ordenador .
 La placa base:fue creada en la decada de los 80 
-El disco Duro:fue creado en 1956 
+El disco Duro:
 La memoria Ram:fue creado en 1969.
-La tarjeta wifi
+
 
