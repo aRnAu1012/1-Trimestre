@@ -345,7 +345,28 @@ STREAM: Arroyo ---> Corriente de agua(Datos)
   
   Por cada persona abra mas objetos para conectar.
   
+  Discos SSD: si esos discos se tropean por cualquier cosa ja no puedes utilizar-lo.
   
+  
+  interfaz :significa que cable tiene.Los discos SSD más habituales son de 128 o 256 GB (ahora son mucho mas potente).
+  
+  Tiempo de acceso. Es el tiempo que tarda en situarse el cabezal en una posición aleatoria del disco, para leer un dato. 
+  Suele estar comprendido entre 8 y 9 milisegundos.
+  
+   disco duro: Western Digital HC530 
+   
+   Capacidad: 14 TB
+   
+   Precio: desde 328,99 €
+   
+   Interfaz: SAS 
+   
+   Tamaño del búfer: 512 MB
+   
+   Velocidad de giro: 7200 RPM
+   
+   Tipo: Magnetico 
+   
    
   
   
