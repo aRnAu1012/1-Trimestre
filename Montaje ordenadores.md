@@ -1,4 +1,4 @@
-https://raw.githubusercontent.com/aRnAu1012/arnau/main/IMG%201.jpgPersonas en el equipo :Hemos estado trabajando Andre,Isma,JM,JO
+en el equipo :Hemos estado trabajando Andre,Isma,JM,JO
 
 El fotografo del equipo , el que hacia fotos a cada pieza que desmontavamos era Ismael.
 
@@ -36,7 +36,7 @@ El disco Duro:
 La memoria Ram:fue creado en 1969.
 
 Foto 1 : 
-
+ En estos momentos estamos deciciendo como empezar bien el desmontaje de ordenador.
 ![](https://raw.githubusercontent.com/aRnAu1012/arnau/main/IMG%201.jpg)
 
 
