@@ -363,10 +363,18 @@ STREAM: Arroyo ---> Corriente de agua(Datos)
    
    Tamaño del búfer: 512 MB
    
-   Velocidad de giro: 7200 RPM
+   Velocidad de giro: 7200 RPM(repeticiones por minuto)
    
    Tipo: Magnetico 
    
+   ### Reflexion sobre precios
+   Por 300€ mas tienes G-Technology con Thunderbolt 3 (unos 650€ aproximadamente )
+    
+   Por 80€ mas tienes Seagate Expansion Desktop, de 4 TB, HDD, USB 3.0 (unos 89€ aproximadamente)
+   
+   Por 40€ mas UnionSine Ultra Slim Disco Duro Externo Portátil 2.5"  de 500GB (unos 38 € aproximadamente )
+   
+  En definitiva vale la pena gastarse mas de 300€ si lo necesites de verdad para tus funciones si,si no creo que gastarse 80 € por uso privado esta bastante     bien. 
    
   
   
