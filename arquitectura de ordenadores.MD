@@ -303,3 +303,8 @@ DOS TIPOS DE FORMATEO:
 Formateo ESTANDAR
 
 Formateo DE BAJO NIVEL.
+
+## Internet y redes:
+ejemplo:
+envio whatsapp
+
