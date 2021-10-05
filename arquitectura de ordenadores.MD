@@ -333,8 +333,17 @@ STREAM: Arroyo ---> Corriente de agua(Datos)
          UTP 
   Puertos : ---->Puertas    80--->http o 443---> https    HIPERTEXO
             ----> Abiertas o cerradas 
+            
+ LAN Ordinador1010
+ 4 bytes  IPv4 
+ 
+ 255.255.255.255 = 4.000.000.000 < 7.000.000.000
+ 0.0.0.1
+ 0.0.0.2
   
+  IoT ---> Internet of things  
   
+  Por cada persona abra mas objetos para conectar.
   
   
    
