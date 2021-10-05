@@ -376,6 +376,7 @@ STREAM: Arroyo ---> Corriente de agua(Datos)
    
   En definitiva vale la pena gastarse mas de 300€ si lo necesites de verdad para tus funciones si,si no creo que gastarse 80 € por uso privado esta bastante     bien. 
    
+   
   
   
   
