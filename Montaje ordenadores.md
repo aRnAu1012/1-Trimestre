@@ -35,6 +35,6 @@ La placa base:fue creada en la decada de los 80
 El disco Duro:
 La memoria Ram:fue creado en 1969.
 
-[¡imagen]https://we.tl/t-zwS8xOOLvm
+¡[]https://we.tl/t-zwS8xOOLvm
 
 
