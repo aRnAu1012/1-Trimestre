@@ -38,10 +38,10 @@ La memoria Ram:fue creado en 1969.
 Foto 1 : 
  En estos momentos estamos deciciendo como empezar bien el desmontaje de ordenador
 
-![imajen](https://raw.githubusercontent.com/aRnAu1012/arnau/main/IMG%201.jpg)
+![](https://raw.githubusercontent.com/aRnAu1012/arnau/main/IMG201.jpg)
  
 Foto 2 :
-![imajen](https://raw.githubusercontent.com/aRnAu1012/arnau/main/IMG_2.jpg)
+![](https://raw.githubusercontent.com/aRnAu1012/arnau/main/IMG_2.jpg)
 
 
 
