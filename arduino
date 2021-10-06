@@ -1,7 +1,16 @@
 readme 
 -Primera prueba.md
--Sacar foto 
--capturas
+Programa de ejemplo BLINK.INO
 error en arduino:
 Ha ocurrido un error mientras se enviaba el sketch
 avrdude: ser_open(): can't open device "/dev/ttyACM0": Permission denied
+los errores arduino IDE :
+COMPILAR: 
+Traducir a codigo maquina 
+-83 5e FF o A 38
+
+enviar:
+ABRIR PUERTO 
+-enviar el compilado 
+-Revisarla 
+CERRAR PUERTO 
