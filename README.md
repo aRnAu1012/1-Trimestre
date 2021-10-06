@@ -1,7 +1,7 @@
 # Arnau
 # PRESENTACION
 bienvenides
-1 cuatrimestre 
+1 trimestre 
 Me llamo Arnau.
 
 Me gusta jugar al futbol y ver partidos de futbol ⚽⚽⚽,me gusta ir en bici🚴🚴🚴,tengo 17 años.
