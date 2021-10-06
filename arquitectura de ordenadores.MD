@@ -377,9 +377,64 @@ STREAM: Arroyo ---> Corriente de agua(Datos)
   En definitiva vale la pena gastarse mas de 300€ si lo necesites de verdad para tus funciones si,si no creo que gastarse 80 € por uso privado esta bastante     bien. 
    
 
+  ## Tarjeta de sonido 
   
+  La tarjeta de sonido tiene doble funcion:
+  
+ ![imagen](https://user-images.githubusercontent.com/90753272/136156085-1cae34c5-6146-441b-9a08-25d2e3dcd234.png)
+ 
+ interfaz--->tipo de conexion,
+ 
+ Digitalización del sonido:
+ 
+ El sonido está producido por la vibraciónde un cuerpo sólido  que  normalmente  se  transmite  a  través  del aire.
+ Actualmente  las placas  base  incorporanlas  funciones  de  una  tarjeta  de  sonido  en  el chip correspondiente al Puente Sur. Pero si queremos tener un sonidode mayor calidad tendremos que añadir una tarjeta de sonido en una ranura de expansión que esté libre.
+ 
+ ![imagen](https://user-images.githubusercontent.com/90753272/136156881-e0dd5850-f3fa-4909-9d23-28bd61700784.png)
 
+Características:
+Frecuencia y profundidad de muestreo durante la conversión analógica-digital. Suele ser de 96 KHz y 24 bits.
+
+Frecuencia y profundidad de muestreo durante la conversión digital-analógica. Suele ser de 96 KHz y 24 bits.
+
+Tipo de conexiones externas.
+
+Sistema de sonido envolvente para juegos: los más usuales son EAX, A3D y Sensaura.Conector MIDI para instrumentos musicales.
+
+Tecnologías especiales para mejorar el sonido.
+
+ejemplo:
+
+Velocidad  =  Frecuencia . Ancho de banda 
+bits/s          hz              bits
+
+A = 500 MB/S  50.000 hz   ¿Ancho de banda del bus?
+
+B =  ¿Velocidad?  20.000HZ   8bits
+   160.000bits/s  100.000  = 19,5 KB/S 
+                    8
+
+C = 20MHZ     8BITS
+   20.000.000hz  
+   
+   20.000.000 * 8=
+   160.000.000 bits/s
+   160.000.000    =  19.531 KB/S       19.531  =19,07 mb/s 
+   8 * 1024                            1024    
   
+  
+  Los buses de datos tienen una determinada capacidad de transmision de informacion.Esta capacidad se mide en informacion/s.
+  Por ejemplo bits/s , KB/s, MB/s, GB/S
+  Para pasar de una unidad a otra tendremos que multiplicar o dividir 
+      Para pasar de bit(b) a byte (B) dividimos entre 8, que es el numero de bits en un byte.
+      
+      Para pasar de byte a kilobyte (KB) dividimos entre 1.024 que es el numero de bytes en un KB.
+      
+      Para pasar de kylobyte a megabyte (MB) dividimos entre 1.024 que es un numero de megabyte.
+                      Megabyte a GigaByte (GB) dividimos entre 1024 
+                      Megabyte en un gigabyte 
+ 
+  Si hubiera que pasar de bit a Megabyte ,se unen varias divisiones,en este caso : Primero dividimos entre 8 y luego 2 veces ente 1024.
   
   
   
