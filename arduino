@@ -1,0 +1,7 @@
+readme 
+-Primera prueba.md
+-Sacar foto 
+-capturas
+error en arduino:
+Ha ocurrido un error mientras se enviaba el sketch
+avrdude: ser_open(): can't open device "/dev/ttyACM0": Permission denied
