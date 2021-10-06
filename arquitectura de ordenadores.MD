@@ -436,8 +436,48 @@ C = 20MHZ     8BITS
  
   Si hubiera que pasar de bit a Megabyte ,se unen varias divisiones,en este caso : Primero dividimos entre 8 y luego 2 veces ente 1024.
   
+  Si pasamos de unidades grandes a chicas,multiplicaremos en vez de dividir.
+  
+  La velocidad de tranmision es igual a la frecuencia de transmision del bus multiplicado por el numero de bits por paquete.
+  
+  El numero de bits por paquete depende de cuantas conexiones tenga.
+  
+  Unidades de la frecuencia :
+  La frecuencia se mide en Hetz,Herzios o segundos a la -1 (1/segundos)
+  1 HZ representa que algo ocurre una vez por segundo pero 0,1 herzio represeta que algo ocurre cada 10 segundos
   
   
+5 herzios reprenta que algo ocurre 5 veces por segundo.
+
+En informatica estas frecuencias  pueden referirse habitualmente a :
+
+-Frecuencias de reloj para transmitir datos.(MHZ -GHZ).
+
+-Frecuencias de segundos (HZ - KHZ).
+
+Para canbiar la unidad ,se utiliza el SI, es decir multiples y submultiples en base decimal. Es decir :1MHZ= 1.000.000 O 1 khz= 1000 HZ
+
+    25 mhz        512 bytes/paquete   ¿Velocidad?
+    pasar a hz
+    
+    Velocidad =Frecuencia . paquete 
+12.800.000.000=25.000.000 . 512
+     bytes/s  12.500.000 KB/S
+                 11,9GB/S
+            
+            
+ ## Sistema operativo:
+ 
+ Funciones basicas :
+ - Hablar con el Hardware.
+ - Establecer conexiones (wifi-Lan-BT-4G).
+ - Interfaz basica de usuario. 
+ - Acceder y administrar discos. 
+ - Acceso basico de archivos.
+ - Permitir instalar otros programas.
+ 
+ 
+ 
   
   
   
