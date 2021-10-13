@@ -477,6 +477,25 @@ Para canbiar la unidad ,se utiliza el SI, es decir multiples y submultiples en b
  - Permitir instalar otros programas.
  
  
+ # Circuitos Electricos 
+ ## Error de programacion
+ 
+ No havia permiso para programar por el usb:
+ARV dude:
+Lanzó una excepcion y detuvo el programa 
+Esto ocurrio por un tema de permiso de usuario 
+
+linux:
+Superusuario 
+Usuarios 
+
+## Primeros circuitos 
+Esto pese a funcionar y dar luz genera dos problemas:
+El primero se calienta y es incomo de tocar. 
+El segundo puede fundir el led.
+ +5 voltios ----LED1----LED2----LED3----LED4
+ En los circuitos en serie ----> Si desconectamos una parte todo se apaga
+ 
  
   
   
