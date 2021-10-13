@@ -26,6 +26,7 @@ Fuente de alimentación.
 
 ## Informacion general Ordenadores:
 
+
 Placa base, a la que se acoplan el microprocesador, la memoria RAM, la tarjeta gráfica y la 
 tarjeta de sonido.  
 
