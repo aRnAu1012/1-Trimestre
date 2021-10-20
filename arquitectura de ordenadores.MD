@@ -123,6 +123,9 @@ Tipos:
 mecanicos;
 membrana.
 
+## Sistema operativo 
+Sotware que permite tener otras aplicaciones dentro y que interactua con el hardware.
+
 ## Clase de Binario
 
 BINARIO=Se puede escribir con una cifra 10 numeros,si quieres se puede escribir 100 solo es repetir 10 veces los 10 numeros-(0,1,2,3,4,5,6,7,8,9)
