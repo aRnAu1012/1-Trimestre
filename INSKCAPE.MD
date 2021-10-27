@@ -185,7 +185,7 @@ Leon 05.PNG:
 
 ## Otras pruebas:
 
-![prueba leon 1](https://user-images.githubusercontent.com/90753272/139022341-bb5bea07-eefd-4ab5-97e7-759e61706aa3.png)
+![prueba leon 1](https://user-images.githubusercontent.com/90753272/139022341-bb5bea07-eefd-4ab5-97e7-759e61706aa3.png)(5*5)
 
 
 
