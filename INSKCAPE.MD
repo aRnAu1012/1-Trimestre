@@ -224,7 +224,7 @@ Leon 04 .PNG(MIX)
 
 ## Tono/Saturacion
 
-HSL (HUE,Saturation, Light)
+## HSL (HUE,Saturation, Light):
 
 Este sistema mezcla los siguiente;
 
@@ -235,4 +235,35 @@ Un canal de nivel de saturacion cromatica que va del gris al color =(Saturation)
 Un canal de luminosidad de color =(LIGHT)
 
 Un canal de transparencia 
+
+## (CMYK):
+Este sistema mezcla los tres colores primarios substractivos (CYAN , MAGENTA , AMARILLO)
+y un canal de negro.
+Un canal de transparencia (alfa)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
