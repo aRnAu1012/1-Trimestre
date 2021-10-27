@@ -208,6 +208,8 @@ Leon 01.PNG(Relleno)
 
 ![leon relleno](https://user-images.githubusercontent.com/90753272/139027467-83e52f7f-77a4-458d-b253-40d04a4f2671.png)
 
+En esta imajen he hecho una mezcla de relleno con un tipo de color rosado con un azul bastante flojo , no es un color exacto he ido probando que azul flojo era mejor y alfinal a quedado asi.
+
 
 leon 02.PNG (COLOR DE TRAZO)
 
