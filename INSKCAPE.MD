@@ -222,7 +222,17 @@ Leon 04 .PNG(MIX)
 
 ![Leon MIX](https://user-images.githubusercontent.com/90753272/139028633-a1d5f1c4-704f-4be9-a037-df7b2ac12aa6.png)
 
+## Tono/Saturacion
 
+HSL (HUE,Saturation, Light)
+
+Este sistema mezcla los siguiente;
+
+-Un tono de color en la rueda cromatica = (HUE)
+
+- Un canal de nivel de saturacion cromatica que va del gris al color =(Saturation)
+
+- Un canal de luminosidad del color =(LIGHT)
 
 
 
