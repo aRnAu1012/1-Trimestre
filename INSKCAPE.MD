@@ -228,11 +228,11 @@ HSL (HUE,Saturation, Light)
 
 Este sistema mezcla los siguiente;
 
--Un tono de color en la rueda cromatica = (HUE)
+Un tono de color en la rueda cromatica = (HUE)
 
-- Un canal de nivel de saturacion cromatica que va del gris al color =(Saturation)
+Un canal de nivel de saturacion cromatica que va del gris al color =(Saturation)
 
-- Un canal de luminosidad del color =(LIGHT)
+Un canal de luminosidad de color =(LIGHT)
 
 
 
