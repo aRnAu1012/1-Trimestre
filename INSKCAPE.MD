@@ -215,10 +215,14 @@ leon 02.PNG (COLOR DE TRAZO)
 
 ![LEON 02 COLOR DE TRAZO ](https://user-images.githubusercontent.com/90753272/139027684-5ce7b336-35ce-4ece-9607-7ebc15fceaca.png)
 
+En esta imajen he querido que se resalte un poco la cara del leon para que se vea mejor entonces gracias al color de trazo he podido resaltar un poco la figura del leon , con los colores mas parecidos que la foto anterior.
+
 
 LEON 03.PNG(Estilo de trazo)
 
 ![leon 03 Estilo de trazo ](https://user-images.githubusercontent.com/90753272/139028142-f4e59f8f-b47c-4cea-9f6c-abf076c63d68.png)
+
+
 
 Leon 04 .PNG(MIX)
 
