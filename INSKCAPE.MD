@@ -222,6 +222,8 @@ LEON 03.PNG(Estilo de trazo)
 
 ![leon 03 Estilo de trazo ](https://user-images.githubusercontent.com/90753272/139028142-f4e59f8f-b47c-4cea-9f6c-abf076c63d68.png)
 
+En esta imajen he querido improvisar algo con unas pequeñas figuras para resaltar un mas la cara del leon.
+
 
 
 Leon 04 .PNG(MIX)
