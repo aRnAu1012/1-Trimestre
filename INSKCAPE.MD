@@ -183,3 +183,6 @@ Leon 05.PNG:
 ![leon05](https://user-images.githubusercontent.com/90753272/139021099-9ee1e1c1-46ef-4227-bb32-ce9873a460ef.png)
 
 
+## Otras pruebas:
+
+![prueba leon 1](https://user-images.githubusercontent.com/90753272/139022341-bb5bea07-eefd-4ab5-97e7-759e61706aa3.png)
