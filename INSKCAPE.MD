@@ -271,6 +271,14 @@ Forma 1 + forma 2 = Union
 
 Este es uno de los pasos que empece para poder conseguir la figura perfecta.
 
+## Como ajustar el lienzo en inskcape 
+-Archvo ----> Propiedades del documento ,control+sifth+D
+
+![Captura de pantalla de 2021-10-27 13-18-39](https://user-images.githubusercontent.com/90753272/139055881-913fc7bf-2cc8-46d5-b78a-fb152f9cc85a.png)
+
+
+- Ajustar pagina a contenido -----> Boton ajustar pagina a contenido o seleccion.
+
 
 
 
