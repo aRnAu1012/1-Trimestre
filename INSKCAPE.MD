@@ -235,3 +235,4 @@ Un canal de nivel de saturacion cromatica que va del gris al color =(Saturation)
 Un canal de luminosidad de color =(LIGHT)
 
 Un canal de transparencia 
+
