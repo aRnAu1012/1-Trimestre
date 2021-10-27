@@ -190,7 +190,7 @@ Leon 05.PNG:
 
 
 
-![prueba leon 2](https://user-images.githubusercontent.com/90753272/139022499-5df5d3c1-012b-465e-8bdb-2719a8da7d3c.png)
+![prueba leon 2](https://user-images.githubusercontent.com/90753272/139022499-5df5d3c1-012b-465e-8bdb-2719a8da7d3c.png)(5000*5625)
 
 
 
