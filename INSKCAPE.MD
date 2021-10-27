@@ -250,7 +250,13 @@ y un canal de negro.
 Un canal de transparencia (alfa)
 
 
+## underground
 
+![underground real](https://user-images.githubusercontent.com/90753272/139050815-95136d9f-9501-4489-ab91-cba469f509aa.png)
+
+## Mitsubishi
+
+![mitsubishi real](https://user-images.githubusercontent.com/90753272/139050887-9d0993e9-d79a-41bd-b687-b49dde7a77fb.png)
 
 
 
