@@ -193,16 +193,30 @@ Leon 05.PNG:
 ![prueba leon 2](https://user-images.githubusercontent.com/90753272/139022499-5df5d3c1-012b-465e-8bdb-2719a8da7d3c.png)(5000*5625)
 
 
+## Propiedades de las Formas
+
+Primero vamos a modificar:
+
+1: Relleno 
+
+2:Color de trazo
+
+3:Estilo de trazo 
 
 
+Leon 01.PNG(Relleno)
+
+![leon relleno](https://user-images.githubusercontent.com/90753272/139027467-83e52f7f-77a4-458d-b253-40d04a4f2671.png)
 
 
+leon 02.PNG (COLOR DE TRAZO)
+
+![LEON 02 COLOR DE TRAZO ](https://user-images.githubusercontent.com/90753272/139027684-5ce7b336-35ce-4ece-9607-7ebc15fceaca.png)
 
 
+LEON 03.PNG(Estilo de trazo)
 
-
-
-
+![leon 03 Estilo de trazo ](https://user-images.githubusercontent.com/90753272/139028142-f4e59f8f-b47c-4cea-9f6c-abf076c63d68.png)
 
 
 
