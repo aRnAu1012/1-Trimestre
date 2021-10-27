@@ -267,18 +267,9 @@ Forma 1- Forma 2
 Forma 1 + forma 2 = Union
 
 
+![Captura de pantalla de 2021-10-27 13-02-38](https://user-images.githubusercontent.com/90753272/139055056-791d1e9c-be21-4142-882d-87263d2d7eb7.png)
 
-
-
-
-
-
-
-
-
-
-
-
+Este es uno de los pasos que empece para poder conseguir la figura perfecta.
 
 
 
