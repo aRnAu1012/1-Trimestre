@@ -218,6 +218,9 @@ LEON 03.PNG(Estilo de trazo)
 
 ![leon 03 Estilo de trazo ](https://user-images.githubusercontent.com/90753272/139028142-f4e59f8f-b47c-4cea-9f6c-abf076c63d68.png)
 
+Leon 04 .PNG(MIX)
+
+![Leon MIX](https://user-images.githubusercontent.com/90753272/139028633-a1d5f1c4-704f-4be9-a037-df7b2ac12aa6.png)
 
 
 
