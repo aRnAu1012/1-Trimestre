@@ -260,6 +260,11 @@ Un canal de transparencia (alfa)
 
 
 
+# Operaciones Booleanas con formas
+
+Forma 1- Forma 2
+
+Forma 1 + forma 2 = Union
 
 
 
