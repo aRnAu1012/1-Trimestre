@@ -280,6 +280,10 @@ Este es uno de los pasos que empece para poder conseguir la figura perfecta.
 - Ajustar pagina a contenido -----> Boton ajustar pagina a contenido o seleccion.
 
 
+![pasos favor ](https://user-images.githubusercontent.com/90753272/139060844-1fcc59c3-c90a-4eda-90d2-dbfc7d26feab.png)
+
+En este paso he hecho que la figura en blanco se pudiera bloquear para asi poder mover sin problema.
+
 
 
 
