@@ -1,13 +1,16 @@
 # Arnau
 # PRESENTACION
 bienvenides
+
 1 trimestre 
+
 Me llamo Arnau.
 
 Me gusta jugar al futbol y ver partidos de futbol ⚽⚽⚽,me gusta ir en bici🚴🚴🚴,tengo 17 años.
 Vengo del Colegio Santo Angel de Gava.
 
 (http://github.com)
+
 [https://github.com/aRnAu1012/arnau/blob/main/arquitectura%20de%20ordenadores.MD]
 
 [https://github.com/aRnAu1012/arnau/blob/main/MECANOGRAFIA.MD]
