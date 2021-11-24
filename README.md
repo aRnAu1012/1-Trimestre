@@ -16,7 +16,7 @@ Vengo del Colegio Santo Angel de Gava.
 
 https://grandecovian.es/FGC/files/D.%20Tecnolog%C3%ADa/TIC%20I/Arquitectura/Arquitectura%20de%20ordenadores.pdf
 
-[INSKCAPE]("https://github.com/aRnAu1012/arnau/blob/main/INSKCAPE.MD)"
+[INSKCAPE][https://github.com/aRnAu1012/arnau/blob/main/INSKCAPE.MD]
 
 [Arquitectura de ordenadores]("https://github.com/aRnAu1012/arnau/blob/main/arquitectura%20de%20ordenadores.MD")
 
